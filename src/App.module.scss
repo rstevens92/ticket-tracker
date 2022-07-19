@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content {
+    max-width: 100vw;
+    max-width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 275px);
+    justify-content: space-evenly;
+    min-height: 100%;
+}
